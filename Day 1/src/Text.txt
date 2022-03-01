@@ -1,0 +1,13 @@
+--------------------------------------------
+
+  1 Clone Repository
+
+  2 Install Visual Stuio Code
+
+  3 Install Some Extentions
+
+  4 Install Python Latest Version
+
+  All Set Enjoy
+  
+---------------------------------------------
